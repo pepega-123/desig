@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">design</string>
+    <string name="string1">Кого ты себе хочешь взять?</string>
+    <string name="string2">Приют "Надежда"</string>
+    <string name="string3">Выбери одну категорию питомца</string>
+    <string name="string4">Кошки</string>
+
+</resources>
